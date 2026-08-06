@@ -9,7 +9,13 @@ wheels/
 # Virtual environments
 .venv
 
-repos
+# Carpeta privada del profesor: notebooks de seguimiento, datos personales de los
+# alumnos (DNI, celular, correo) y los clones de sus repos. NO subir: los alumnos
+# tienen acceso a este repositorio.
+seguimiento/
+
+# Datos del curso
 data
 
 .DS_Store
+.claude
