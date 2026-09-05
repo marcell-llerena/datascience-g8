@@ -1,0 +1,6 @@
+[tool.ruff.lint]
+exclude = ["*.ipynb"]
+
+
+[tool.ruff.format]
+exclude = ["*.ipynb"]
