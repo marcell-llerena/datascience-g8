@@ -19,3 +19,7 @@ data
 
 .DS_Store
 .claude
+
+
+# Model checkpoints
+models
