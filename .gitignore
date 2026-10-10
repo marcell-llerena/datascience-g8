@@ -28,3 +28,4 @@ models
 notebooks_tutoriales
 runs
 *.pt
+.results

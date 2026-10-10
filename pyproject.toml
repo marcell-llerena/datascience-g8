@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
     "accelerate>=1.15.0",
+    "datasets>=5.1.0",
     "diffusers>=0.40.0",
     "gensim>=4.4.0",
     "imageio>=2.38.0",
